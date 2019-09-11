@@ -3,7 +3,7 @@
 
 
 ## Reference Citation
-* Al Alkeem E., **Kim, S.-K.** and et al.,, **An Enhanced Electrocardiogram Biometric Authentication System Using Machine Learning**, *IEEE Access* **7** (2019), pp. 123069-123075.
+* Al Alkeem E., **Kim, S.-K.** and et al., **An Enhanced Electrocardiogram Biometric Authentication System Using Machine Learning**, *IEEE Access* **7** (2019), pp. 123069-123075.
 </br></br>
 
 ![-](https://ieeexplore.ieee.org/ielx7/6287639/8600701/8812730/graphical_abstract/access-gagraphic-2937357.jpg)
