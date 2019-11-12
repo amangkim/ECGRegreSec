@@ -16,6 +16,7 @@
 ```
 2019.09.10: The paper has been published.
 2019.09.11: Upload the ECGRegSec in the Github (v.0.2).
+2019.11.11: Upload the ECGtrainRegression function in the Github.
 ```
 
 #### Code uploaded by *Amang Kim* [v0.2 || 2019/09/11]
